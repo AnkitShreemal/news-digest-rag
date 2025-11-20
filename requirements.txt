@@ -1,0 +1,10 @@
+streamlit
+faiss-cpu
+sentence-transformers
+llama-cpp-python==0.2.20
+numpy
+pandas
+requests
+feedparser
+newspaper3k
+langchain
